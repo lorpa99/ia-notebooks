@@ -2,7 +2,7 @@
 
 Notebook e progetti di intelligenza artificiale e machine learning, dal didattico al reale: algoritmi implementati da zero in NumPy, pipeline con scikit-learn, dati da database SQL, API e LLM, fino a progetti completi testati.
 
-Autore: Lorenzo Casarosa, docente di informatica (ITI), Data Science and Business Informatics (UNIPI).
+Autore: Lorenzo Casarosa, docente di informatica, Co-autore di due manuali per la preparazione all'Esame di Maturità, , Data Science and Business Informatics (UNIPI).
 
 ## Come è organizzato
 
