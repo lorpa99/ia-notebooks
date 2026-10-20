@@ -1,0 +1,20 @@
+# Segreti
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dati e modelli pesanti (pubblicare script di download al loro posto)
+*.db-journal
+*.joblib
+*.pkl
+
+# Sistema
+.DS_Store
