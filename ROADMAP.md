@@ -6,8 +6,8 @@ Percorso dal didattico al reale in cinque livelli. Le voci si spuntano quando il
 
 Algoritmi implementati con liste o NumPy, senza librerie di machine learning.
 
-- [ ] NumPy: dalle liste Python agli array vettorizzati
-- [ ] k-Nearest Neighbors
+- [x] NumPy: dalle liste Python agli array vettorizzati → [01-knn-from-scratch-numpy](01-knn-from-scratch-numpy/) (parte A)
+- [x] k-Nearest Neighbors → [01-knn-from-scratch-numpy](01-knn-from-scratch-numpy/) (parte B)
 - [ ] Regressione lineare con discesa del gradiente
 - [ ] Rete neurale con backpropagation
 - [ ] Alberi di decisione
@@ -49,4 +49,4 @@ Database, modello, API e test automatici in un unico progetto eseguibile.
 
 ## Prossimi passi
 
-Da aggiornare a ogni pubblicazione.
+- Regressione lineare con discesa del gradiente (livello 1), con confronto con `LinearRegression` di scikit-learn.

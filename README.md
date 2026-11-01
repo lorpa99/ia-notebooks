@@ -22,7 +22,7 @@ Ogni lavoro è collocato su uno dei cinque livelli del percorso, descritti in [R
 
 | N. | Titolo | Livello | Stato | Link |
 |---|---|---|---|---|
-| | Nessun lavoro pubblicato | | | |
+| 01 | k-Nearest Neighbors da zero con NumPy (in inglese) | 1 | Pubblicato | [01-knn-from-scratch-numpy](01-knn-from-scratch-numpy/) |
 
 ## Principi
 
