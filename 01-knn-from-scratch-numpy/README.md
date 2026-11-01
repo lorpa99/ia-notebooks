@@ -8,6 +8,8 @@
 
 Go from Python lists to NumPy arrays, then use those arrays to build, evaluate and understand a k-Nearest Neighbors classifier, ending with a real task: recognizing handwritten digits.
 
+![Decision regions of the from-scratch kNN for k = 1, 9 and 161](figures/decision-regions.png)
+
 The notebook has two parts.
 
 **Part A – NumPy.** Why lists are not enough (time and memory measured, not asserted); shape, dtype, views vs copies; vectorized operations and boolean masks; matrices and `axis`; broadcasting, including the three-dimensional case; `argsort`, fancy indexing and `np.unique`. Every tool is introduced because it is needed in Part B.
